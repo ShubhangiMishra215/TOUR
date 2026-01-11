@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ("https://github.com/ShubhangiMishra215/TOUR.git")
-- Live Site URL: ("https://shubhangimishra215.github.io/TOUR/")
+- Solution URL: (https://github.com/ShubhangiMishra215/TOUR.git)
+- Live Site URL: (https://shubhangimishra215.github.io/TOUR/)
 
 ---
 
@@ -67,6 +67,7 @@ const description = readMore ? fullInfo : `${fullInfo.substring(0, 200)}...`;
 function toggleReadMore() {
   setReadMore(!readMore);
 }
+```
 
 ## Continued development
 
@@ -82,14 +83,14 @@ In future projects, I want to continue improving my front-end skills by focusing
 
 ## Useful resources
 
-- [React Documentation]("https://reactjs.org/docs/getting-started.html") 
+- [React Documentation](https://reactjs.org/docs/getting-started.html) 
 
 ---
 
 ## Author
 
-- Name: Shubhnagi Mishra
-- GitHub: ["https://github.com/shubhangimishra215"]
+- Name: Shubhangi Mishra
+- GitHub: https://github.com/shubhangimishra215
 
 ---
 
